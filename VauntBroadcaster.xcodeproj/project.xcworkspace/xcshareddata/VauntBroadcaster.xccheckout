@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D4B84E00-56A2-4FB2-8814-7E93D025944A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VauntBroadcaster</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A02F10D064360BE9673C98FBC132C8E56C6B3410</key>
+		<string>https://github.com/vauntdeveloper/sub-ios-vaunt-repo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VauntBroadcaster.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A02F10D064360BE9673C98FBC132C8E56C6B3410</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vauntdeveloper/sub-ios-vaunt-repo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A02F10D064360BE9673C98FBC132C8E56C6B3410</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A02F10D064360BE9673C98FBC132C8E56C6B3410</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sub-ios-vaunt-repo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
